@@ -13,7 +13,7 @@ To use the script, follow the steps below:
 
 
 
-2. Clone the repository.
+2. Clone the repository
    ```bash
    git clone https://github.com/yourusername/json-label-cleaner.git
    cd json-label-cleaner
