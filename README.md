@@ -1,4 +1,4 @@
-# Label-Studio-Label-Remover
+# Label Studio Text Label/Annotation Remover
 
 This Python script removes specific labels from JSON annotations output from label studio.
 
