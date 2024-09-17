@@ -17,7 +17,7 @@ To use the script, follow the steps below:
    ```bash
    python remove_labels.py
 
-Example:
+   Example:
    ```bash
    file_path = r'c:\Users\Sakib Ahmed\Documents\USA.json'  # Replace with your input file path
    labels_to_remove = ["Issue_Date", "DOB", "Expiration", "Revision_Date"]  # Labels to remove
