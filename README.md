@@ -15,13 +15,13 @@ To use the script, follow the steps below:
 
 3. Run the script:
    ```bash
-python remove_labels.py
+   python remove_labels.py
 
 
 Example:
+   ```bash
+      file_path = r'c:\Users\Sakib Ahmed\Documents\USA.json'  # Replace with your input file path
+      labels_to_remove = ["Issue_Date", "DOB", "Expiration", "Revision_Date"]  # Labels to remove
+      output_path = 'output.json'
 
-file_path = r'c:\Users\Sakib Ahmed\Documents\USA.json'  # Replace with your input file path
-labels_to_remove = ["Issue_Date", "DOB", "Expiration", "Revision_Date"]  # Labels to remove
-output_path = 'output.json'
-
-remove_labels_from_annotations(file_path, labels_to_remove, output_path)
+      remove_labels_from_annotations(file_path, labels_to_remove, output_path)
