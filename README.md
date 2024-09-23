@@ -15,7 +15,7 @@ To use the script, follow the steps below:
 
 2. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/json-label-cleaner.git
+   git clone https://github.com/SakibAhmedShuva/Label-Studio-Text-Label-Remover.git
    cd json-label-cleaner
 
 3. Modify the file_path, labels_to_remove, and output_path in the script as needed.
